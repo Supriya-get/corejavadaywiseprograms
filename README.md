@@ -1,0 +1,2 @@
+# corejavadaywiseprograms
+for learning
